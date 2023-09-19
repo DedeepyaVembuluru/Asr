@@ -1,6 +1,6 @@
 # Asr
 #Automatic Speech Recognition
-This is about speech recognition which is very popular trending now a days due to its wide usage
+-This is about speech recognition which is very popular trending now a days due to its wide usage
 # Indian Accent Speech Recognition
 _Traditional ASR (Signal Analysis, MFCC, DTW, HMM & Language Modelling) and DNNs (Custom Models & Baidu DeepSpeech Model) on Indian Accent Speech_
 
